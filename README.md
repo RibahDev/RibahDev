@@ -8,7 +8,7 @@
 
 [![email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:joao.ribeiro17@outlook.com)
 
-[![Ribah languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RibahDev&hide=)](https://github.com/RibahDev?tab=repositories)
+[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RibahDev&hide=)](https://github.com/RibahDev?tab=repositories)
 
 ## Tecnologias dominantes
 
