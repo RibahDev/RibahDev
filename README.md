@@ -8,8 +8,7 @@
 
 [![email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:joao.ribeiro17@outlook.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RibahDev&layout=donut-vertical)](https://github.com/RibahDev?tab=repositories)
-
+[![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RibahDev&theme=blue-green)](https://github.com/RibahDev?tab=repositories)
 ## Tecnologias dominantes
 
 <div style="display: inline_block"><br/>
@@ -31,4 +30,6 @@
 <div style="display: inline_block"><br/>
 <img align="center" alt="VScode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <img align="center" alt="Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+<img align="center" alt="Udemy" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
+<img align="right" alt="follows" src="https://img.shields.io/github/followers/RibahDev.svg?style=social&label=Follow&maxAge=2592000">
 </div>
