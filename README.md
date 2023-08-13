@@ -1,16 +1,18 @@
 # Olá! Eu sou o João Ribeiro 👋
 
-## Tecnologias dominantes
+## Tecnologias dominantes 👨‍💻
+
+[![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=RibahDev&theme=blue-green)](https://github.com/RibahDev?tab=repositories)
+
 <div style="display: inline_block"><br/>
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
     <img align="center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-    <img align="left" alt="Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RibahDev&theme=blue-green"/>   
 </div>
 
-## Design
-<div style="display: inline_block"><br/>
+## Design 👁️‍🗨️
+<div style="display: flex"><br/>
     <img align="center" alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
 <img align="center" alt="PHOTOSHOP" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
 <img align="center" alt="FIGMA" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
@@ -25,7 +27,7 @@
 <img align="right" alt="follows" src="https://img.shields.io/github/followers/RibahDev.svg?style=social&label=Follow&maxAge=2592000">
 </div>
 
-### Fale comigo:
+### Fale comigo: 📬
 [![Projetocontatos](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ribahdev.github.io/portifolio1/)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-vitor-ribeiro-240a97263/)
